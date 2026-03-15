@@ -1,6 +1,9 @@
 # Shopify Lite API
 
 A production-ready backend API for e-commerce featuring CRUD product management, real-time inventory tracking, high-performance Redis caching, and Stripe-powered payments.
+<img width="1423" height="812" alt="Image" src="https://github.com/user-attachments/assets/b343a118-4c9b-4216-b34d-736d86dbe577" />
+
+<img width="1423" height="353" alt="Image" src="https://github.com/user-attachments/assets/c48244f4-ed35-4850-af60-f8369d029cc8" />
 
 ## Tech Stack
 
